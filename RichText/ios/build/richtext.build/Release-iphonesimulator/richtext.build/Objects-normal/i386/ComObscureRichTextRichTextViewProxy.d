@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.m \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiUIViewProxy.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiViewProxy.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiProxy.h \

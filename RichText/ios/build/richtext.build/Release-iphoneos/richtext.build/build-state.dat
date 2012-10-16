@@ -2,46 +2,11 @@ Trichtext
 v5
 r1
 cCheck dependencies
-cProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a" normal armv7
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
-c000000004F453DF20000000000000110
-t1329937906
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-c00000000503216EC0000000000087C30
-t1345459948
-s556080
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000503216EC000000000052C940
-t1345459948
-s5425472
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c00000000503216EC0000000000001534
-t1345459948
-s5428
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
-c00000000503216ED0000000000509D20
-t1345459949
-s5283104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c00000000503216EC0000000000175AA0
-t1345459948
-s1530528
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib
-c00000000503216EE00000000001F40A0
-t1345459950
-s2048160
+cProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-betbxlbtmhdxgtgiozvhthcllfud/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos/libComObscureRichText.a" normal armv7
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
 c00000000506D71F50000000000000132
@@ -78,1086 +43,113 @@ c00000000505AEFD300000000001B4D30
 t1348136915
 s1789232
 
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.h
-c00000000505054CB000000000000013F
-t1347441867
-s319
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.m
 c00000000505054CB0000000000000823
 t1347441867
 s2083
 
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.h
-c00000000507D5773000000000000020E
-t1350391667
-s526
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.m
 c00000000507D5C4E0000000000000773
 t1350392910
 s1907
 
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.h
-c00000000505054CB0000000000000121
-t1347441867
-s289
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.m
 c0000000050507D7D000000000000018B
 t1347452285
 s395
 
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/ComObscureRichText_Prefix.pch
 c0000000050505617000000000000003E
 t1347442199
 s62
 i<Foundation/Foundation.h>
 
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a
-t1350400714
-s1997472
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichText.LinkFileList
-c000000005050588F0000000000000212
-t1347442831
-s530
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextModule.o
-t1347442831
-s14484
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextView.o
-t1347546414
-s99116
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextViewProxy.o
-t1347452344
-s3184
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/libComObscureRichText.a
-t1347546414
-s1829304
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichText.LinkFileList
-c000000005050588F0000000000000212
-t1347442831
-s530
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o
-t1350384276
-s14608
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o
-t1350392916
-s93940
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o
-t1350384276
-s3188
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/libComObscureRichText.a
-t1347546414
-s1844096
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/CGUtils.h
-c00000000507D152C00000000000003F5
-t1350374700
-s1013
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTAttributedMultiTextContentView.h
-c00000000507D542D0000000000001426
-t1350390829
-s5158
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTAttributedTextCell.h
-c00000000507D152C0000000000000276
-t1350374700
-s630
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTAttributedTextContentView.h
-c00000000507D152C000000000000155F
-t1350374700
-s5471
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTAttributedTextView.h
-c00000000507D152C00000000000003A5
-t1350374700
-s933
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCSSListStyle.h
-c00000000507D152C0000000000000CE9
-t1350374700
-s3305
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCSSStylesheet.h
-c00000000507D152C00000000000006D4
-t1350374700
-s1748
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTColor+HTML.h
-c00000000507D152C00000000000016B0
-t1350374700
-s5808
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCompatibility.h
-c00000000507D360200000000000002F2
-t1350383106
-s754
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreText.h
-c00000000507D53BE00000000000005BA
-t1350390718
-s1466
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextConstants.h
-c00000000507D152C00000000000005F5
-t1350374700
-s1525
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextFontCollection.h
-c00000000507D152C00000000000001FF
-t1350374700
-s511
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextFontDescriptor.h
-c00000000507D152C00000000000007AA
-t1350374700
-s1962
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextGlyphRun.h
-c00000000507D152C00000000000004B8
-t1350374700
-s1208
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.h
-c00000000507D152C0000000000001E01
-t1350374700
-s7681
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayoutLine.h
-c00000000507D152C0000000000000928
-t1350374700
-s2344
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayouter.h
-c00000000507D152C000000000000034C
-t1350374700
-s844
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextParagraphStyle.h
-c00000000507D152C00000000000015C4
-t1350374700
-s5572
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTHTMLElement.h
-c00000000507D152C0000000000000A67
-t1350374700
-s2663
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTImage+HTML.h
-c00000000507D152C000000000000037E
-t1350374700
-s894
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTLazyImageView.h
-c00000000507D3298000000000000028C
-t1350382232
-s652
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTLinkButton.h
-c00000000507D152C000000000000034D
-t1350374700
-s845
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTTextAttachment.h
-c00000000507D152C0000000000000B3C
-t1350374700
-s2876
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTTextBlock.h
-c00000000507D152C0000000000000247
-t1350374700
-s583
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTWebVideoView.h
-c00000000507D152C0000000000000254
-t1350374700
-s596
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSAttributedString+DTCoreText.h
-c00000000507D152C0000000000000AE7
-t1350374700
-s2791
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSAttributedString+HTML.h
-c00000000507D152C00000000000001FF
-t1350374700
-s511
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSAttributedString+SmallCaps.h
-c00000000507D152C00000000000003DE
-t1350374700
-s990
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSAttributedStringRunDelegates.h
-c00000000507D152C00000000000001EE
-t1350374700
-s494
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSCharacterSet+HTML.h
-c00000000507D152C00000000000008CC
-t1350374700
-s2252
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSData+DTBase64.h
-c00000000507D152C00000000000006C5
-t1350374700
-s1733
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSMutableAttributedString+HTML.h
-c00000000507D152C000000000000049E
-t1350374700
-s1182
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSMutableString+HTML.h
-c00000000507D152C0000000000000176
-t1350374700
-s374
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSScanner+HTML.h
-c00000000507D152C0000000000000242
-t1350374700
-s578
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSString+CSS.h
-c00000000507D152C0000000000000884
-t1350374700
-s2180
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSString+HTML.h
-c00000000507D152C0000000000000ACA
-t1350374700
-s2762
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSString+Paragraphs.h
-c00000000507D152C000000000000029A
-t1350374700
-s666
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSString+UTF8Cleaner.h
-c00000000507D152C0000000000000128
-t1350374700
-s296
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/UIDevice+DTVersion.h
-c00000000507D152C00000000000003A4
-t1350374700
-s932
-
-N/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/build/Release-iphoneos/libDTCoreText.a
-c00000000507D7B760000000000398698
-t1350400886
-s3770008
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/Bridge.h
-c000000005032211F0000000000000268
-t1345462559
-s616
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/KrollCallback.h
-c000000005032212E0000000000000A60
-t1345462574
-s2656
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/KrollContext.h
-c00000000503221320000000000001470
-t1345462578
-s5232
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/KrollObject.h
-c00000000503221290000000000000C9C
-t1345462569
-s3228
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/LayoutConstraint.h
-c000000005032212B0000000000000B9E
-t1345462571
-s2974
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/ListenerEntry.h
-c000000005032211F0000000000000269
-t1345462559
-s617
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiAnimation.h
-c000000005032214C000000000000129A
-t1345462604
-s4762
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiBase.h
-c0000000050322139000000000000487F
-t1345462585
-s18559
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiBlob.h
-c00000000503221460000000000000B11
-t1345462598
-s2833
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiBuffer.h
-c000000005032213F00000000000004F6
-t1345462591
-s1270
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiColor.h
-c00000000503221270000000000000496
-t1345462567
-s1174
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/Ti.h
-c000000005032211C0000000000000721
-t1345462556
-s1825
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/TiBase.h
-c000000005032213500000000000019E1
-t1345462581
-s6625
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/TiContextRef.h
-c000000005032212900000000000014DD
-t1345462569
-s5341
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/TiContextRefPrivate.h
-c00000000503221400000000000000990
-t1345462592
-s2448
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/TiCore.h
-c000000005032214B00000000000006A0
-t1345462603
-s1696
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/TiObjectRef.h
-c000000005032213E0000000000009462
-t1345462590
-s37986
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/TiStringRef.h
-c000000005032213100000000000016E7
-t1345462577
-s5863
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/TiStringRefCF.h
-c00000000503221240000000000000A40
-t1345462564
-s2624
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/TiValueRef.h
-c000000005032211F000000000000323B
-t1345462559
-s12859
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore/WebKitAvailability.h
-c000000005032214B00000000000080D1
-t1345462603
-s32977
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiDimension.h
-c000000005032212C0000000000001E45
-t1345462572
-s7749
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiEvaluator.h
-c000000005032214700000000000004D5
-t1345462599
-s1237
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiFile.h
-c000000005032213A0000000000000680
-t1345462586
-s1664
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiGradient.h
-c000000005032213300000000000005FC
-t1345462579
-s1532
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiHost.h
-c000000005032214A0000000000000503
-t1345462602
-s1283
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiModule.h
-c000000005032214700000000000006F3
-t1345462599
-s1779
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiPoint.h
-c00000000503221200000000000000443
-t1345462560
-s1091
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiProxy.h
-c000000005032212E000000000000234F
-t1345462574
-s9039
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiPublicAPI.h
-c000000005032213E0000000000000A67
-t1345462590
-s2663
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiRect.h
-c0000000050322149000000000000045C
-t1345462601
-s1116
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiStylesheet.h
-c000000005032213800000000000002CB
-t1345462584
-s715
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiThreading.h
-c000000005032212300000000000008EF
-t1345462563
-s2287
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiUIView.h
-c00000000503221440000000000001D04
-t1345462596
-s7428
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiUIViewProxy.h
-c0000000050322139000000000000013A
-t1345462585
-s314
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiUtils.h
-c0000000050322127000000000000466A
-t1345462567
-s18026
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiViewProxy.h
-c000000005032213F0000000000003CE3
-t1345462591
-s15587
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/WebFont.h
-c000000005032214900000000000008BA
-t1345462601
-s2234
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/defines.h
-c00000000503221460000000000000983
-t1345462598
-s2435
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/Bridge.h
-c0000000050410D640000000000000268
-t1346440548
-s616
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/KrollCallback.h
-c0000000050410D7D0000000000000A60
-t1346440573
-s2656
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/KrollContext.h
-c0000000050410D6A0000000000001470
-t1346440554
-s5232
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/KrollObject.h
-c0000000050410D6A0000000000000C9C
-t1346440554
-s3228
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/LayoutConstraint.h
-c0000000050410D7D0000000000000B9E
-t1346440573
-s2974
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/ListenerEntry.h
-c0000000050410D790000000000000269
-t1346440569
-s617
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiAnimation.h
-c0000000050410D65000000000000129A
-t1346440549
-s4762
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiBase.h
-c0000000050410D7D000000000000487F
-t1346440573
-s18559
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiBlob.h
-c0000000050410D6C0000000000000B11
-t1346440556
-s2833
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiBuffer.h
-c0000000050410D6800000000000004F6
-t1346440552
-s1270
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiColor.h
-c0000000050410D7B0000000000000496
-t1346440571
-s1174
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/Ti.h
-c0000000050410D7C0000000000000721
-t1346440572
-s1825
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/TiBase.h
-c0000000050410D7D00000000000019E1
-t1346440573
-s6625
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/TiContextRef.h
-c0000000050410D6400000000000014DD
-t1346440548
-s5341
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/TiContextRefPrivate.h
-c0000000050410D6B0000000000000990
-t1346440555
-s2448
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/TiCore.h
-c0000000050410D7700000000000006A0
-t1346440567
-s1696
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/TiObjectRef.h
-c0000000050410D680000000000009462
-t1346440552
-s37986
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/TiStringRef.h
-c0000000050410D7300000000000016E7
-t1346440563
-s5863
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/TiStringRefCF.h
-c0000000050410D630000000000000A40
-t1346440547
-s2624
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/TiValueRef.h
-c0000000050410D67000000000000323B
-t1346440551
-s12859
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore/WebKitAvailability.h
-c0000000050410D6500000000000080D1
-t1346440549
-s32977
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiDimension.h
-c0000000050410D670000000000001E45
-t1346440551
-s7749
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiEvaluator.h
-c0000000050410D7D00000000000004D5
-t1346440573
-s1237
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiFile.h
-c0000000050410D690000000000000680
-t1346440553
-s1664
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiGradient.h
-c0000000050410D6A00000000000005FC
-t1346440554
-s1532
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiHost.h
-c0000000050410D690000000000000503
-t1346440553
-s1283
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiModule.h
-c0000000050410D7100000000000006F3
-t1346440561
-s1779
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiPoint.h
-c0000000050410D620000000000000443
-t1346440546
-s1091
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiProxy.h
-c0000000050410D79000000000000234F
-t1346440569
-s9039
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiPublicAPI.h
-c0000000050410D7C0000000000000A67
-t1346440572
-s2663
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiRect.h
-c0000000050410D67000000000000045C
-t1346440551
-s1116
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiStylesheet.h
-c0000000050410D6300000000000002CB
-t1346440547
-s715
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiThreading.h
-c0000000050410D6800000000000008EF
-t1346440552
-s2287
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiUIView.h
-c0000000050410D7D0000000000001D04
-t1346440573
-s7428
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiUIViewProxy.h
-c0000000050410D72000000000000013A
-t1346440562
-s314
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiUtils.h
-c0000000050410D61000000000000466A
-t1346440545
-s18026
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiViewProxy.h
-c0000000050410D680000000000003CE3
-t1346440552
-s15587
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/WebFont.h
-c0000000050410D6C00000000000008BA
-t1346440556
-s2234
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/defines.h
-c0000000050410D6E0000000000000983
-t1346440558
-s2435
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/Bridge.h
-c00000000506D4A8D0000000000000268
-t1349339789
-s616
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/KrollCallback.h
-c00000000506D4A9A0000000000000A60
-t1349339802
-s2656
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/KrollContext.h
-c00000000506D4A880000000000001547
-t1349339784
-s5447
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/KrollObject.h
-c00000000506D4AA50000000000000C9C
-t1349339813
-s3228
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/LayoutConstraint.h
-c00000000506D4A830000000000000B9E
-t1349339779
-s2974
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/ListenerEntry.h
-c00000000506D4AA80000000000000269
-t1349339816
-s617
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiAnimation.h
-c00000000506D4A8A000000000000129A
-t1349339786
-s4762
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiBase.h
-c00000000506D4A8600000000000048B4
-t1349339782
-s18612
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiBlob.h
-c00000000506D4A7F0000000000000B11
-t1349339775
-s2833
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiBuffer.h
-c00000000506D4A8B00000000000004F6
-t1349339787
-s1270
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiColor.h
-c00000000506D4A9A0000000000000496
-t1349339802
-s1174
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/Ti.h
-c00000000506D4A7D0000000000000721
-t1349339773
-s1825
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/TiBase.h
-c00000000506D4A7E00000000000019E1
-t1349339774
-s6625
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/TiContextRef.h
-c00000000506D4A9800000000000014DD
-t1349339800
-s5341
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
-c00000000506D4AA00000000000000990
-t1349339808
-s2448
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/TiCore.h
-c00000000506D4A7900000000000006A0
-t1349339769
-s1696
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/TiObjectRef.h
-c00000000506D4A9F0000000000009462
-t1349339807
-s37986
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/TiStringRef.h
-c00000000506D4A7C00000000000016E7
-t1349339772
-s5863
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/TiStringRefCF.h
-c00000000506D4AA70000000000000A40
-t1349339815
-s2624
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/TiValueRef.h
-c00000000506D4AA1000000000000323B
-t1349339809
-s12859
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore/WebKitAvailability.h
-c00000000506D4A9800000000000080D1
-t1349339800
-s32977
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiDimension.h
-c00000000506D4A9E0000000000001E45
-t1349339806
-s7749
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiEvaluator.h
-c00000000506D4A8E00000000000004D5
-t1349339790
-s1237
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiFile.h
-c00000000506D4AA50000000000000680
-t1349339813
-s1664
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiGradient.h
-c00000000506D4A9500000000000005FC
-t1349339797
-s1532
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiHost.h
-c00000000506D4A950000000000000503
-t1349339797
-s1283
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiModule.h
-c00000000506D4A8E00000000000006F3
-t1349339790
-s1779
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiPoint.h
-c00000000506D4AA50000000000000443
-t1349339813
-s1091
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiProxy.h
-c00000000506D4A82000000000000234F
-t1349339778
-s9039
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiPublicAPI.h
-c00000000506D4A900000000000000A67
-t1349339792
-s2663
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiRect.h
-c00000000506D4AA4000000000000045C
-t1349339812
-s1116
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiStylesheet.h
-c00000000506D4AA500000000000002CB
-t1349339813
-s715
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiThreading.h
-c00000000506D4A7D00000000000008EF
-t1349339773
-s2287
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiUIView.h
-c00000000506D4A890000000000001D04
-t1349339785
-s7428
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiUIViewProxy.h
-c00000000506D4A9B000000000000013A
-t1349339803
-s314
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiUtils.h
-c00000000506D4A99000000000000472E
-t1349339801
-s18222
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiViewProxy.h
-c00000000506D4A810000000000003D26
-t1349339777
-s15654
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/WebFont.h
-c00000000506D4A7F00000000000008BA
-t1349339775
-s2234
-
-N/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/defines.h
-c00000000506D4A850000000000000983
-t1349339781
-s2435
-
-N/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ausvaenjjuftpnbgdpwjazizquux/ComObscureRichText_Prefix.pch.pth
-t1347442831
-s2448472
-
-N/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch.pth
-t1347442831
-s2448124
-
-N/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fhpfuligghbbadblfiiwqjeqdjtd/ComObscureRichText_Prefix.pch.pth
-t1350381917
-s2860356
-
-N/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch.pth
-t1350045521
-s2860356
-
-N/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fzrvmhmadyecvkdylraxadxuoagg/ComObscureRichText_Prefix.pch.pth
-t1349438689
-s2860356
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos/libComObscureRichText.a
+t2
+s0
+
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichText.LinkFileList
+c00000000507D92D60000000000000230
+t1350406870
+s560
+
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o
+t2
+s0
+
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o
+t2
+s0
+
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o
+t2
+s0
+
+N/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/build/Release-iphoneos/libDTCoreText.a
+c00000000507D92D60000000000399000
+t1350406870
+s3772416
+
+N/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-betbxlbtmhdxgtgiozvhthcllfud/ComObscureRichText_Prefix.pch.pth
+t1350405460
+s2860420
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa5be88f6b22db641^c5e588f6b22db641^---0#1#0#--18"Check dependencies36"0C7B632D-2203-43AF-BFFC-A09A98712AFC-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies36936756ca2db641^c4056856ca2db641^---0#1#0#--18"Check dependencies36"215CC3DA-A1E5-4FA5-8DBF-3EC41E9BFAC1-
 
-CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextModule.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369135631.236333
-e369135631.333631
-r1
-xCompileC
-xbuild/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextModule.o
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.mc79b3c0f9000b641^6e69550f9000b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m0000000000000000^3493"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextModule.o Classes/ComObscureRichTextModule.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv6" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextModule.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextModule.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextModule.o"36"795ABD5F-B0FF-4A99-9B8E-E434AF63D518-
-
-CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextView.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369239951.191947
-e369239951.326559
-r1
-xCompileC
-xbuild/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextView.o
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.mf23f318f2702b641^1c99538f2702b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m0000000000000000^3529"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextView.o Classes/ComObscureRichTextRichTextView.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv6" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextView.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextView.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextView.o"36"FAF265FD-589A-47A7-9C46-F6237B6398B7-
-
-CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextViewProxy.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369145144.901925
-e369145144.986748
-r1
-xCompileC
-xbuild/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextViewProxy.o
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.me10be738b500b641^0f9bfc38b500b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m0000000000000000^3559"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextViewProxy.o Classes/ComObscureRichTextRichTextViewProxy.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv6" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextViewProxy.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextViewProxy.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichTextRichTextViewProxy.o"36"BE53C7B5-8A51-4807-867B-F8C2812C5218-
-
-CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s372077076.055838
-e372077076.155457
+CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372099670.416177
+e372099670.508022
 r1
 xCompileC
 xbuild/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m
+x/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.m
 xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.mdc660e14722db641^f7cb2714722db641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m0000000000000000^3491"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o Classes/ComObscureRichTextModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o"36"8B218D33-6CAC-4F4D-B1F0-1F1A145926BC-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.mb1a66a56ca2db641^f50f8256ca2db641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.m0000000000000000^3601"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o Classes/ComObscureRichTextModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-betbxlbtmhdxgtgiozvhthcllfud/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextModule.o"36"5802FA26-9536-4AF5-AB6E-524CCFD482FA-
 
-CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s372085716.273569
-e372085716.404164
+CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372099670.416192
+e372099670.559358
 r1
 xCompileC
 xbuild/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m
+x/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.m
 xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.mc42646d4932db641^087767d4932db641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m0000000000000000^3527"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o Classes/ComObscureRichTextRichTextView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o"36"62BEFCB3-2C6A-4290-86AF-8138C0784FBE-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.me3a66a56ca2db641^16328f56ca2db641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.m0000000000000000^3637"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o Classes/ComObscureRichTextRichTextView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-betbxlbtmhdxgtgiozvhthcllfud/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextView.o"36"28C44C54-5895-40F1-A574-1BFC6CE0143A-
 
-CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s372077076.055823
-e372077076.143875
+CCompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s372099670.416188
+e372099670.508008
 r1
 xCompileC
 xbuild/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m
+x/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.m
 xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m00720e14722db641^73d52414722db641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m0000000000000000^3557"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o Classes/ComObscureRichTextRichTextViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextViewProxy.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o"36"8D179D07-4B69-49F2-9E42-4113EEA9E70A-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.m2db16a56ca2db641^280c8256ca2db641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.m0000000000000000^3667"CompileC build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o Classes/ComObscureRichTextRichTextViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos" -DTI_POST_1_2 -include /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-betbxlbtmhdxgtgiozvhthcllfud/ComObscureRichText_Prefix.pch -MMD -MT dependencies -MF "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.d" --serialize-diagnostics "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.dia" -c "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextViewProxy.m" -o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichTextRichTextViewProxy.o"36"C4E2074A-7F8A-41D9-A564-0D52F22EE8A1-
 
-CCreateUniversalBinary "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a" normal "armv6 armv7"
-s369239951.406995
-e369239951.509014
-r1
-xCreateUniversalBinary
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a
-xnormal
-xarmv6 armv7
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Create universal binary /Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a514a688f2702b641^014f828f2702b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a0000000000000000^873"CreateUniversalBinary build/Release-iphoneos/libComObscureRichText.a normal "armv6 armv7"    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    libtool -static "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/libComObscureRichText.a" "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/libComObscureRichText.a" -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a"36"24849BF7-B9DC-4838-ACA0-C8022F7E3357-
-
-CLibtool "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a" normal armv7
-s372093686.552097
-e372093686.607617
+CLibtool "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos/libComObscureRichText.a" normal armv7
+s372099670.566218
+e372099670.624913
 r1
 xLibtool
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a
+x/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos/libComObscureRichText.a
 xnormal
 xarmv7
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Libtool build/Release-iphoneos/libComObscureRichText.a normal armv76a6a8df6b22db641^fb909bf6b22db641^-719"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library-0#0#0#--1398"Libtool build/Release-iphoneos/libComObscureRichText.a normal armv7    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk "-L/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -filelist "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichText.LinkFileList" -ObjC -framework Foundation "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/build/Release-iphoneos/libDTCoreText.a" -framework CoreText /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libxml2.dylib -framework QuartzCore -framework ImageIO -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/libComObscureRichText.a"36"E806E10A-CD21-4A70-A4A5-6DE4E4672891-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Libtool build/Release-iphoneos/libComObscureRichText.a normal armv72d089156ca2db641^48fb9f56ca2db641^-719"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library-0#0#0#--1448"Libtool build/Release-iphoneos/libComObscureRichText.a normal armv7    cd "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk "-L/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos" -filelist "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichText.LinkFileList" -ObjC -framework Foundation "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/build/Release-iphoneos/libDTCoreText.a" -framework CoreText /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libxml2.dylib -framework QuartzCore -framework ImageIO -o "/Users/nicolasmuller/Documents/Titanium Workspace/titanium-modules/RichText/ios/build/Release-iphoneos/libComObscureRichText.a"36"90A02A74-E9DB-434E-8F00-09514945514D-
 
-CLibtool "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/libComObscureRichText.a" normal armv6
-s369239951.333491
-e369239951.400149
-r1
-xLibtool
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/libComObscureRichText.a
-xnormal
-xarmv6
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Libtool build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/libComObscureRichText.a normal armv68e75558f2702b641^d174668f2702b641^-719"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library-0#0#0#--1500"Libtool build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/libComObscureRichText.a normal armv6    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv6 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk "-L/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -filelist "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/ComObscureRichText.LinkFileList" -ObjC "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/build/Release-iphoneos/libDTCoreText.a" -framework CoreText /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib -framework QuartzCore -framework ImageIO -framework Foundation -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv6/libComObscureRichText.a"36"C3EA29D5-20D1-4BF9-BE65-0613EB4BC548-
-
-CLibtool "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/libComObscureRichText.a" normal armv7
-s369239951.333519
-e369239951.396944
-r1
-xLibtool
-x/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/libComObscureRichText.a
-xnormal
-xarmv7
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Libtool build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/libComObscureRichText.a normal armv7b075558f2702b641^349d658f2702b641^-719"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib is a dynamic library, not added to the static library-0#0#0#--1500"Libtool build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/libComObscureRichText.a normal armv7    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk "-L/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -filelist "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/ComObscureRichText.LinkFileList" -ObjC "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/vendor/DTCoreText/build/Release-iphoneos/libDTCoreText.a" -framework CoreText /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/lib/libxml2.dylib -framework QuartzCore -framework ImageIO -framework Foundation -o "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/Objects-normal/armv7/libComObscureRichText.a"36"9A376CF3-F804-4B5F-8CA8-B59EF46E4FFF-
-
-CProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ausvaenjjuftpnbgdpwjazizquux/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369135631.113772
-e369135631.222769
-r1
-xProcessPCH
-x/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ausvaenjjuftpnbgdpwjazizquux/ComObscureRichText_Prefix.pch.pth
-xComObscureRichText_Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile ComObscureRichText_Prefix.pch58381d0f9000b641^f209390f9000b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch0000000000000000^3412"ProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ausvaenjjuftpnbgdpwjazizquux/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 --serialize-diagnostics /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ausvaenjjuftpnbgdpwjazizquux/ComObscureRichText_Prefix.pch.dia -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch" -o /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ausvaenjjuftpnbgdpwjazizquux/ComObscureRichText_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ausvaenjjuftpnbgdpwjazizquux/ComObscureRichText_Prefix.pch.d36"E68F1C7D-634B-400A-8DC1-32DE0B2D65BC-
-
-CProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369135631.113789
-e369135631.230030
-r1
-xProcessPCH
-x/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch.pth
-xComObscureRichText_Prefix.pch
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile ComObscureRichText_Prefix.pch7a381d0f9000b641^26e53a0f9000b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch0000000000000000^3412"ProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv6" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 --serialize-diagnostics /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch.dia -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch" -o /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-ayzfutnrvepraiczcjtngxrwujbp/ComObscureRichText_Prefix.pch.d36"557B394A-7072-4842-A585-D48AA7B6842B-
-
-CProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fhpfuligghbbadblfiiwqjeqdjtd/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s372074717.180925
-e372074717.312875
-r1
-xProcessPCH
-x/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fhpfuligghbbadblfiiwqjeqdjtd/ComObscureRichText_Prefix.pch.pth
-xComObscureRichText_Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile ComObscureRichText_Prefix.pchf73c2fdd682db641^221b50dd682db641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch0000000000000000^3410"ProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fhpfuligghbbadblfiiwqjeqdjtd/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 --serialize-diagnostics /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fhpfuligghbbadblfiiwqjeqdjtd/ComObscureRichText_Prefix.pch.dia -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch" -o /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fhpfuligghbbadblfiiwqjeqdjtd/ComObscureRichText_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fhpfuligghbbadblfiiwqjeqdjtd/ComObscureRichText_Prefix.pch.d36"D113A78B-4C20-4D3A-B1B7-B4AD024959C3-
-
-CProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s371738321.224923
-e371738321.456726
-r1
-xProcessPCH
-x/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch.pth
-xComObscureRichText_Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile ComObscureRichText_Prefix.pch04ac39d14628b641^a7ec74d14628b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch0000000000000000^3410"ProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 --serialize-diagnostics /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch.dia -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch" -o /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-frxkfpfabvygtacbzbpgcbzggzke/ComObscureRichText_Prefix.pch.d36"0291AD5A-779B-483D-80E1-CA96AE75E5A2-
-
-CProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fzrvmhmadyecvkdylraxadxuoagg/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s371131489.002269
-e371131489.123007
-r1
-xProcessPCH
-x/var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fzrvmhmadyecvkdylraxadxuoagg/ComObscureRichText_Prefix.pch.pth
-xComObscureRichText_Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile ComObscureRichText_Prefix.pch8eac0061041fb641^e17f1f61041fb641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/nicolasmuller/Documents/Titanium%20Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch0000000000000000^3410"ProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fzrvmhmadyecvkdylraxadxuoagg/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.3 "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/ComObscureRichText.hmap" -I/Users/nicolasmuller/Documents/Titanium -IWorkspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include" "-I/Users/nicolasmuller/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/iphone/include/TiCore" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources/armv7" "-I/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/richtext.build/Release-iphoneos/richtext.build/DerivedSources" "-F/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/build/Release-iphoneos" -DTI_POST_1_2 --serialize-diagnostics /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fzrvmhmadyecvkdylraxadxuoagg/ComObscureRichText_Prefix.pch.dia -c "/Users/nicolasmuller/Documents/Titanium Workspace/RichText/mobile/ios/ComObscureRichText_Prefix.pch" -o /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fzrvmhmadyecvkdylraxadxuoagg/ComObscureRichText_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-fzrvmhmadyecvkdylraxadxuoagg/ComObscureRichText_Prefix.pch.d36"5AE19E4C-EB60-4F43-9475-2E91E288A186-
+CProcessPCH /var/folders/qj/wffw2sys3m3frzy4mxwsx_q80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ComObscureRichText_Prefix-betbxlbtmhdxgtgiozvhthcllfud/ComObscureRichText_Prefix.pch.pth ComObscureRichText_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
 

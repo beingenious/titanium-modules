@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.m \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/Classes/ComObscureRichTextRichTextView.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.m \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextRichTextView.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiUIView.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiProxy.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiBase.h \
@@ -34,44 +34,44 @@ dependencies: \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiBlob.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/LayoutConstraint.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiGradient.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreText.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextConstants.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCompatibility.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTColor+HTML.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTImage+HTML.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/CGUtils.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCSSListStyle.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTTextBlock.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCSSStylesheet.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextFontDescriptor.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTHTMLElement.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTTextAttachment.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSCharacterSet+HTML.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSData+DTBase64.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSScanner+HTML.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSMutableString+HTML.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSString+CSS.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSString+HTML.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSString+Paragraphs.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSString+UTF8Cleaner.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextParagraphStyle.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSMutableAttributedString+HTML.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSAttributedString+SmallCaps.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSAttributedString+DTCoreText.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSAttributedString+HTML.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTLazyImageView.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTLinkButton.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTWebVideoView.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/NSAttributedStringRunDelegates.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/UIDevice+DTVersion.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTAttributedTextCell.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTAttributedTextContentView.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayouter.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayoutLine.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextGlyphRun.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTAttributedMultiTextContentView.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTAttributedTextView.h \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/vendor/DTCoreText/Core/Source/DTCoreTextFontCollection.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreText.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreTextConstants.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCompatibility.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTColor+HTML.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTImage+HTML.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/CGUtils.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCSSListStyle.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTTextBlock.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCSSStylesheet.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreTextFontDescriptor.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTHTMLElement.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTTextAttachment.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSCharacterSet+HTML.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSData+DTBase64.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSScanner+HTML.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSMutableString+HTML.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSString+CSS.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSString+HTML.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSString+Paragraphs.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSString+UTF8Cleaner.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreTextParagraphStyle.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSMutableAttributedString+HTML.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSAttributedString+SmallCaps.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSAttributedString+DTCoreText.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSAttributedString+HTML.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTLazyImageView.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTLinkButton.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTWebVideoView.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/NSAttributedStringRunDelegates.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/UIDevice+DTVersion.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTAttributedTextCell.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTAttributedTextContentView.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayouter.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreTextLayoutLine.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreTextGlyphRun.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTAttributedMultiTextContentView.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTAttributedTextView.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/vendor/DTCoreText/Core/Source/DTCoreTextFontCollection.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiViewProxy.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiRect.h

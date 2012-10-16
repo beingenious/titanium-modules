@@ -398,11 +398,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "1392"
-         endingLineNumber = "1392"
+         startingLineNumber = "1395"
+         endingLineNumber = "1395"
          landmarkName = "-_correctAttachmentHeights"
          landmarkType = "5">
       </FileBreakpoint>
@@ -411,11 +411,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "1419"
-         endingLineNumber = "1419"
+         startingLineNumber = "1422"
+         endingLineNumber = "1422"
          landmarkName = "-_correctLineOrigins"
          landmarkType = "5">
       </FileBreakpoint>
@@ -424,11 +424,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "240"
-         endingLineNumber = "240"
+         startingLineNumber = "239"
+         endingLineNumber = "239"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -437,11 +437,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "332"
-         endingLineNumber = "332"
+         startingLineNumber = "331"
+         endingLineNumber = "331"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -450,11 +450,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "287"
-         endingLineNumber = "287"
+         startingLineNumber = "286"
+         endingLineNumber = "286"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -463,11 +463,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "304"
-         endingLineNumber = "304"
+         startingLineNumber = "303"
+         endingLineNumber = "303"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -476,11 +476,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "298"
-         endingLineNumber = "298"
+         startingLineNumber = "297"
+         endingLineNumber = "297"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -489,11 +489,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "393"
-         endingLineNumber = "393"
+         startingLineNumber = "396"
+         endingLineNumber = "396"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -502,11 +502,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "399"
-         endingLineNumber = "399"
+         startingLineNumber = "402"
+         endingLineNumber = "402"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -515,11 +515,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "410"
-         endingLineNumber = "410"
+         startingLineNumber = "413"
+         endingLineNumber = "413"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -528,11 +528,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "418"
-         endingLineNumber = "418"
+         startingLineNumber = "421"
+         endingLineNumber = "421"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>
@@ -593,11 +593,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTHTMLElement.m"
-         timestampString = "372089818.932943"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "682"
-         endingLineNumber = "682"
+         startingLineNumber = "684"
+         endingLineNumber = "684"
          landmarkName = "-applyStyleDictionary:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -632,11 +632,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "723"
-         endingLineNumber = "723"
+         startingLineNumber = "726"
+         endingLineNumber = "726"
          landmarkName = "-drawInContext:drawImages:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -645,11 +645,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "710"
-         endingLineNumber = "710"
+         startingLineNumber = "713"
+         endingLineNumber = "713"
          landmarkName = "-drawInContext:drawImages:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -658,11 +658,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "559"
-         endingLineNumber = "559"
+         startingLineNumber = "562"
+         endingLineNumber = "562"
          landmarkName = "-linesVisibleInRect:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -671,11 +671,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "560"
-         endingLineNumber = "560"
+         startingLineNumber = "563"
+         endingLineNumber = "563"
          landmarkName = "-linesVisibleInRect:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -697,11 +697,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "vendor/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m"
-         timestampString = "372093159.757564"
+         timestampString = "372098132.750168"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "175"
-         endingLineNumber = "175"
+         startingLineNumber = "174"
+         endingLineNumber = "174"
          landmarkName = "-_buildLinesWithTypesetter"
          landmarkType = "5">
       </FileBreakpoint>

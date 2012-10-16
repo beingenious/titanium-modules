@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.m \
-  /Users/nicolasmuller/Documents/Titanium\ Workspace/RichText/mobile/ios/Classes/ComObscureRichTextModule.h \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.m \
+  /Users/nicolasmuller/Documents/Titanium\ Workspace/titanium-modules/RichText/ios/Classes/ComObscureRichTextModule.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiModule.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiUtils.h \
   /Users/nicolasmuller/Library/Application\ Support/Titanium/mobilesdk/osx/2.1.3.GA/iphone/include/TiColor.h \

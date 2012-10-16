@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[DTHTMLAttributedStringBuilder buildString]:DTHTMLAttributedStringBuilder.m">
+      </ContextState>
+      <ContextState
+         contextName = "__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_0321:DTHTMLAttributedStringBuilder.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DTHTMLElement attributesDictionary]:DTHTMLElement.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DTHTMLElement applyStyleDictionary:]:DTHTMLElement.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DTAttributedTextContentView layoutSubviewsInRect:]:DTAttributedTextContentView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DemoTextViewController viewDidLoad]:DemoTextViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DTAttributedTextContentView layoutFrame]:DTAttributedTextContentView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DTAttributedTextView layoutSubviews]:DTAttributedTextView.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
